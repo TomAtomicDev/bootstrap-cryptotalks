@@ -1,0 +1,14 @@
+footer {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color:chartreuse;
+}
